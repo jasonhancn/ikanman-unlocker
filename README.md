@@ -1,11 +1,11 @@
 # ikanman-unlocker
 
-这是一个Bookmarklet，用来帮助移动设备解锁ikanman.com的区域限制
+这是一个Bookmarklet，用来帮助移动设备解锁ikanman.com/manhuagui.com的区域限制
 
 用法非常简单，建立一个书签，在“地址”栏填入：
 
 ```JavaScript
-javascript:document.cookie='country=US;domain=.ikanman.com;path=/;max-age=2147483647';undefined
+javascript:document.cookie='country=US;domain=.manhuagui.com;path=/;max-age=2147483647';undefined
 ```
 
 之后打开网站，点击书签，刷新页面即可
